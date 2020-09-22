@@ -1,0 +1,14 @@
+{
+  "id": "mijnsc",
+  "name": "MijnSC",
+  "version": "1.0.0",
+  "description": "Mijn.SC",
+  "main": "index.js",
+  "author": "jaapie_aapie",
+  "repository": "https://github.com/jaapieCoder/mijnscFerdi",
+  "config": {
+    "serviceURL": "https://mijn.sc/",
+    "hasIndirectMessages": true,
+    "hasNotificationSound": true
+  }
+}
